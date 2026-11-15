@@ -1,0 +1,41 @@
+{
+  "Mars Perseverance Rover": {
+    "agency": "NASA",
+    "destination": "Mars",
+    "launch_year": 2020,
+    "objective": "Search for signs of ancient microbial life and collect rock samples.",
+    "spacecraft_type": "Rover",
+    "instruments": ["Mastcam-Z", "SuperCam", "PIXL", "SHERLOC", "RIMFAX"],
+    "source": "https://science.nasa.gov/mission/mars-2020-perseverance/"
+  },
+
+  "OSIRIS-REx": {
+    "agency": "NASA",
+    "destination": "Asteroid Bennu",
+    "launch_year": 2016,
+    "objective": "Collect a sample from asteroid Bennu and return it to Earth.",
+    "spacecraft_type": "Asteroid sample return spacecraft",
+    "instruments": ["OCAMS", "OLA", "OVIRS", "OTES", "REXIS", "TAGSAM"],
+    "source": "https://science.nasa.gov/mission/osiris-rex/"
+  },
+
+  "Landsat 9": {
+    "agency": "NASA / USGS",
+    "destination": "Earth orbit",
+    "launch_year": 2021,
+    "objective": "Monitor Earth's land surface and environmental changes.",
+    "spacecraft_type": "Earth observation satellite",
+    "instruments": ["Operational Land Imager 2", "Thermal Infrared Sensor 2"],
+    "source": "https://science.nasa.gov/mission/landsat-9/"
+  },
+
+  "DART": {
+    "agency": "NASA",
+    "destination": "Asteroid moonlet Dimorphos",
+    "launch_year": 2021,
+    "objective": "Demonstrate asteroid deflection using a kinetic impact.",
+    "spacecraft_type": "Planetary defense impactor",
+    "instruments": ["DRACO", "SMART Nav"],
+    "source": "https://science.nasa.gov/mission/dart/"
+  }
+}

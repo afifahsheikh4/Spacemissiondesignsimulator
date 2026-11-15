@@ -1,0 +1,20 @@
+{
+  "Earth Observation": {
+    "objective": "Observe Earth and collect detailed images.",
+    "required_camera": "High Resolution Camera",
+    "required_communication": "Low Gain Antenna",
+    "required_power_source": "Solar Panels"
+  },
+  "Mars Exploration": {
+    "objective": "Explore Mars and collect scientific information.",
+    "required_camera": "Thermal Camera",
+    "required_communication": "High Gain Antenna",
+    "required_power_source": "Radioisotope Power System"
+  },
+  "Asteroid Monitoring": {
+    "objective": "Monitor an asteroid and study its properties.",
+    "required_camera": "High Resolution Camera",
+    "required_communication": "High Gain Antenna",
+    "required_power_source": "Solar Panels"
+  }
+}
