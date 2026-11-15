@@ -1,0 +1,37 @@
+{
+  "Solar Panels": {
+    "cost": 450000,
+    "mass": 80,
+    "power": 700
+  },
+  "Radioisotope Power System": {
+    "cost": 2500000,
+    "mass": 120,
+    "power": 900
+  },
+  "Low Gain Antenna": {
+    "cost": 150000,
+    "mass": 15,
+    "power": 30
+  },
+  "High Gain Antenna": {
+    "cost": 800000,
+    "mass": 35,
+    "power": 100
+  },
+  "Basic Camera": {
+    "cost": 300000,
+    "mass": 20,
+    "power": 80
+  },
+  "High Resolution Camera": {
+    "cost": 1200000,
+    "mass": 45,
+    "power": 180
+  },
+  "Thermal Camera": {
+    "cost": 900000,
+    "mass": 30,
+    "power": 150
+  }
+}
